@@ -9,6 +9,7 @@
 <img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Chat-7289DA?style=for-the-badge&logo=discord" />
 </a>
 </p>
+
 -----
 
 Cloudreve Cashier 是一个专为 [Cloudreve V4](https://github.com/cloudreve/Cloudreve) 设计的支付解决方案，通过集成易支付（Epay）接口，为您的云存储服务提供无缝的收款体验。它拥有强大的管理后台、灵活的配置选项和现代化的响应式界面。
