@@ -14,6 +14,8 @@
 
 Cloudreve Cashier 是一个专为 [Cloudreve V4](https://github.com/cloudreve/Cloudreve) 设计的支付解决方案，通过集成易支付（Epay）接口，为您的云存储服务提供无缝的收款体验。它拥有强大的管理后台、灵活的配置选项和现代化的响应式界面。
 
+<img src="https://static-smikuy.lucloud.top/PicGo/202506300543555.png?imageSlim" alt="管理后台-云盘支付收银台" style="zoom:33%;" /><img src="https://static-smikuy.lucloud.top/PicGo/202506300542161.png?imageSlim" alt="云盘支付收银台" style="zoom: 33%;" />
+
 ## ✨ 主要特性
 
   - **🚀 多渠道支付**：全面支持支付宝、微信支付、QQ钱包、云闪付等主流支付方式。
@@ -21,7 +23,7 @@ Cloudreve Cashier 是一个专为 [Cloudreve V4](https://github.com/cloudreve/Cl
   - **🔧 高度兼容**：同时兼容 Epay SDK v1.0 和 v2.0，迁移无忧。
   - **📱 响应式设计**：完美适配 PC 和移动设备，提供一致的用户体验。
   - **🔒 安全可靠**：内置签名验证与防重放攻击机制，保障每一笔交易的安全。
-  - **⚙️ 智能路由**：自动检测用户环境（微信/支付宝/QQ），并推荐最佳支付方式。
+  - **⚙️ 智能路由**：自动检测用户环境（微信/支付宝/QQ），并推荐最佳支付方式(微信/支付宝等环境支持直接跳转)。
 
 ## 🛠️ 系统要求
 
